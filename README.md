@@ -13,17 +13,17 @@ Fibonacci, reverse_fibonacci, Martingale, etc. strategies debunked using heap me
 #### Martingale Strategy - 
    * Playing one color on the wheel, If I double every time I lose, that means I have to lose > 6 or 7 times in order to lose,
    which can't ever happen
-    - Wrong! Statistically it does happen and when it happens, you go bankrupt. 
-    - Small Wins aren't enough to make up large losses
+      - Wrong! Statistically it does happen and when it happens, you go bankrupt. 
+      - Small Wins aren't enough to make up large losses
     
    * If I play with another person and I play black and he plays red we can minimize each others losses since when I lose,
       my partner wins and covers my losses
-    - Wrong Again! The losses are too catastrophic.
+      - Wrong Again! The losses are too catastrophic.
   
   #### Fibonacci Strategy - 
     * Playing one color on the wheel, If I follow a pattern on the fibonacci sequence and move right
       one place when I lose and left 2 places when I win, I'm being more safe than Martingale
-    - Wrong! this doesn't work for one or two players
+      - Wrong! this doesn't work for one or two players
       
  ### The Program
   * This Program will take user input of 
