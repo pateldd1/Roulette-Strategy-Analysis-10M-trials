@@ -31,7 +31,7 @@ Fibonacci, reverse_fibonacci, Martingale, etc. strategies debunked using heap me
     2. How much money does each person start with (One person is playing red and other other is playing black)
     3. Money per unit bet (In martingale, if this is 5, you would be betting 5, 10, 20, 40, 80, etc. Fibonacci would be 5, 5, 10, 15, 25, etc.)
     4. How many times do you want to go to the casino? (10,000,000 seems to be maximum capacity)
-    
+    __________________________________________________________________________________________________________________________________
     * In this program I am evaluating the fibonacci strategy with 2 players, one playing black, and the other playing red
     * TWEAKABILITY: this program can be tweaked to evaluate almost any roulette strategy. Instead of building a fibonacci bet sequence to iterate through, as in this program, build a Martingale or any other bet sequence.
     * Program will iterate through the bet sequence, figuring out if each player won or loss, and calculate the next bet for the player based on the strategy
