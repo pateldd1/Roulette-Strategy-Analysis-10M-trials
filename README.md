@@ -39,5 +39,6 @@ Fibonacci, reverse_fibonacci, Martingale, etc. strategies debunked using heap me
     * Program will find the average amount of money each player will leave the casino with after 10,000,000 trials of this strategy. 
     * Remove one player and do it for only one player by getting rid of one of the switch statements.
     * Change the betstring from a fibonacci to a reverse fib, reverse martingale, Hollandish, Oscar's Grind, whatever you want.
-    * PLAYER(S) NEVER LEAVE THE CASINO WITH MORE MONEY THEY CAME IN WITH ON AVERAGE
+    
+    * Player(s) never leave the casino with more money than they came in with on average.
      
